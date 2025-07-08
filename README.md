@@ -1,16 +1,39 @@
-## Hi there 👋
+## Hi there, I am Raj Kumar
 
-<!--
-**rajkumar-code29/rajkumar-code29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring MSc Software Development student  - University of Strathclyde Glasgow
+💼 Trained in Java by Amazon Tech Learning – hands-on training while working  
+🧠 Certified in Python by Mosh & Frontend by freeCodeCamp  
+🤖 Built real apps using AI before I even knew how to code  
+🚀 Exploring full-stack web dev, AI tools, and real-world problem solving  
+📚 Learning in public. Growing with every repo.
 
-Here are some ideas to get you started:
+## Projects I have worked On
+	
+- Automated BPBO workflows using Python & Selenium, saving ~40 hours/week for the team and eliminating repetitive tasks.
+	•	🔍 Image Similarity Workbench Automation
+- Combined web scraping, JS automation, and VBA to replace restricted SQL access; boosted accuracy from 40% → 78%, saving both cost and dev effort.
+	•	📊 Excel Dashboards for Workflow Management
+- Built dynamic dashboards using Excel, WorkDocs, and SharePoint to automate team, QA, and manager reporting — fully replacing manual workflows.
+	•	📈 Learner Trends Dashboard @ Intriguesphere
+- Designed a dashboard to analyze behavioral patterns of CBSE students (Grades 6–12), identifying learner types to improve content delivery and outcomes.
+	•	💤 Nap Pod Booking System (3-Day Sprint Build)
+- Single-handedly developed a complete booking system using only free tools; handled authentication, booking logic, and user interface — delivered in under 72 hours.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Projects I'm Working On
+
+- 🚧 **AI-Powered Resume Builder** – Coming soon  
+- ✅ **TaskGPT** – Smart to-do app with AI-suggested subtasks  
+- 🔒 **AuthSimplified** – Easy auth boilerplate for React apps
+
+## 🛠️ Tech & Tools
+
+`JavaScript` · `Python` · `React` · `Node.js` · `MongoDB` · `Git` · `OpenAI API`
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/raj-kumar-g-k-5aaa2b235)  
+📬 raj.gk29@outlook.com
+
+---
+
+_“Necessity is the mother of invention.”_
