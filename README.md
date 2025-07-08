@@ -10,13 +10,13 @@
 ## Projects I have worked On
 	
 - Automated BPBO workflows using Python & Selenium, saving ~40 hours/week for the team and eliminating repetitive tasks.
-	•	🔍 Image Similarity Workbench Automation
+	
 - Combined web scraping, JS automation, and VBA to replace restricted SQL access; boosted accuracy from 40% → 78%, saving both cost and dev effort.
-	•	📊 Excel Dashboards for Workflow Management
+	
 - Built dynamic dashboards using Excel, WorkDocs, and SharePoint to automate team, QA, and manager reporting — fully replacing manual workflows.
-	•	📈 Learner Trends Dashboard @ Intriguesphere
+	
 - Designed a dashboard to analyze behavioral patterns of CBSE students (Grades 6–12), identifying learner types to improve content delivery and outcomes.
-	•	💤 Nap Pod Booking System (3-Day Sprint Build)
+	
 - Single-handedly developed a complete booking system using only free tools; handled authentication, booking logic, and user interface — delivered in under 72 hours.
 
 ## 🌟 Projects I'm Working On
